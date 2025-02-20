@@ -12,7 +12,7 @@ Modern Calculator is a simple yet powerful calculator that supports both basic a
 To install and run the project, follow these steps:  
 
 ```bash
-git clone https://github.com/yourusername/modern-calculator.git  
+git clone https://github.com/Hareesh0x01/modern-calculator.git  
 cd modern-calculator  
 python main.py  # If built with Python
 ```
